@@ -1,5 +1,8 @@
 # textbook
 
-*.pdf
+Effective C++.pdf
+Effective STL.pdf
+More Effective C++.pdf
+深度探索C++对象模型.pdf
 
 *.exe
