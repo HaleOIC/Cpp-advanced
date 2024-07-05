@@ -1,6 +1,6 @@
 # Effective Cpp
 
-This repository contains my learning process about the most famous book in C++ field, `Effective C++`, which introduces a lot of coding tricks to my brain. It contains six parts:
+This repository contains my learning process about the most famous book in C++ field, `Effective C++`, which introduces a lot of coding tricks to my brain. It contains the following parts:
 
 1. Accustoming yourself to C++
 2. Constructor, destructor and assignment operators
