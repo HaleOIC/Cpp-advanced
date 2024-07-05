@@ -12,7 +12,6 @@ C++ 已经是个多重泛型编程语言(multiparadigm programming language),一
 
 C++高效编程守则试情况而变化，取决于你使用C++的哪一个部分
 
-
 ## Item 2:Prefer consts, enums, and inlines to #defines
 
 - `#define ASPECT_RATIO 1.653` --> `const double AspectRatio = 1.653`

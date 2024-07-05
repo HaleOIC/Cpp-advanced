@@ -235,7 +235,7 @@ private:
 
 `virtual`函数系动态绑定(`dynamically bound`),而缺省值为静态绑定(`statically bound`)，从而应该避免重新定义一个继承而来的缺省函数值。具体例子详见`./codes/Part VI/37-1.cpp`
 
-## Item 38: Model 'has-a' or 'is-implemeted-in-terms-of' through compositions.
+## Item 38: Model 'has-a' or 'is-implemeted-in-terms-of' through compositions
 
 在C++中，我们可以使用继承（inheritance）和组合（composition）来表示类之间的关系。继承表示“is-a”关系，例如，一个矩形类可以继承自一个形状类，因为矩形是一种形状。而组合则表示“has-a”或“is-implemented-in-terms-of”关系，例如，一个矩形类可以包含两个点对象表示左上角和右下角的位置，因为矩形由这两个点决定。
 
